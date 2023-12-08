@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Oficina WARE',
   tagline: 'Melhor Oficina',
-  favicon: 'img/oficina-ware-high-resolution-logo.png',
+  favicon: 'img/oficina-ware-high-resolution-logo-removebg-preview.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -63,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/oficina-ware-high-resolution-logo.png',
+      image: 'img/oficina-ware-high-resolution-logo-removebg-preview.png',
       navbar: {
         title: 'My Site',
         logo: {
