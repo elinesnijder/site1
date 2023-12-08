@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Oficina WARE',
   tagline: 'Melhor Oficina',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/oficina-ware-high-resolution-logo.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
