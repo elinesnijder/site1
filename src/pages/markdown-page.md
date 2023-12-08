@@ -1,7 +1,7 @@
 ---
-title: Markdown page example
+title: Oficina WARE
 ---
 
-# Markdown page example
+# Oficina WARE
 
 You don't need React to write simple standalone pages.
