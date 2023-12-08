@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus_demo=self.webpackChunkdocusaurus_demo||[]).push([[9563],{7661:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/oficina-ware/blog/tags/facebook","allTagsPath":"/oficina-ware/blog/tags","count":1}')}}]);
