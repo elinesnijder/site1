@@ -65,10 +65,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/oficina-ware-high-resolution-logo-removebg-preview.png',
       navbar: {
-        title: 'My Site',
+        title: 'WARE',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Logo',
+          src: 'img/oficina-ware-high-resolution-logo-removebg-preview.png',
         },
         items: [
           {
@@ -89,11 +89,20 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Serviços',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Serviços',
+                to: '/Serviços',
+              },
+            ],
+          },
+          {
+            title: 'Promoções',
+            items: [
+              {
+                label: 'Promoções',
+                to: '/Promoções',
               },
             ],
           },
@@ -115,11 +124,11 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Informações',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Informações',
+                to: '/informações',
               },
               {
                 label: 'GitHub',
